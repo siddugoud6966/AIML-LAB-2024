@@ -1,4 +1,6 @@
 # AIML-LAB-2024
+[LAB-02]
+
 [LAB-04](https://github.com/siddugoud6966/AIML-LAB-2024/blob/main/Lab04.ipynb)
 
 [LAB-05](https://github.com/siddugoud6966/AIML-LAB-2024/blob/main/lab05.ipynb)
