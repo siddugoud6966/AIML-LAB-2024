@@ -13,4 +13,6 @@
 
 [LAB-07](https://github.com/siddugoud6966/AIML-LAB-2024/blob/main/AIML_LAB_07.ipynb)
 
+[LAB-08](https://github.com/siddugoud6966/AIML-LAB-2024/blob/main/AIML_LAB_08.ipynb)
+
 
